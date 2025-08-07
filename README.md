@@ -5,6 +5,7 @@ A simple and visually appealing web page designed using **HTML5** and **CSS3**. 
 ## 📂 Project Structure
 
 Mini-Project/
+
 ├── index.html
 ├── style.css
 └── Screenshot 2025-07-14 122224.png
