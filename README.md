@@ -2,14 +2,6 @@
 
 A simple and visually appealing web page designed using **HTML5** and **CSS3**. This mini project showcases the power of front-end technologies to build responsive and creative layouts without any JavaScript.
 
-## 📂 Project Structure
-
-Mini-Project/
-
-├── index.html
-├── style.css
-└── Screenshot 2025-07-14 122224.png
-
 
 ## 📸 Preview
 
@@ -34,6 +26,7 @@ Mini-Project/
 git clone https://github.com/nidhi829n/Mini-Project.git
 cd Mini-Project
 open index.html
+
 
 
 
