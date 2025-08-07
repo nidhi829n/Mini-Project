@@ -10,9 +10,10 @@ A simple and visually appealing web page designed using **HTML5** and **CSS3**. 
 ## ✨ Features
 
 - Clean and elegant UI
-- Fully responsive design
 - Modern layout using only HTML and CSS
 - Beginner-friendly codebase
+- Works smoothly across all modern browsers
+- Fully responsive design
 
 ## 🛠️ Technologies Used
 
